@@ -1,0 +1,33 @@
+{
+  "name": "genpark-meta-muse-episodic-memory-graph-mcp",
+  "version": "1.0.0",
+  "description": "Native Model Context Protocol (MCP) server fusing Meta ambient multimodal perception with Muse continuous episodic memory streams and Ebbinghaus recency decay.",
+  "category": "Service",
+  "author": "AlphaPark",
+  "tags": [
+    "meta",
+    "muse",
+    "episodic-memory",
+    "ebbinghaus-decay",
+    "multimodal-anchor",
+    "mcp-server"
+  ],
+  "tools": [
+    {
+      "name": "record_episodic_memory",
+      "description": "Ingest continuous interaction episode with multimodal metadata."
+    },
+    {
+      "name": "query_decayed_memory",
+      "description": "Retrieve personal memories weighted by Ebbinghaus retention curves."
+    },
+    {
+      "name": "resolve_preference_contradiction",
+      "description": "Arbitrate between historical habits and current explicit instructions."
+    },
+    {
+      "name": "run_benchmark_episodic_stream",
+      "description": "Run memory retention and conflict resolution benchmark."
+    }
+  ]
+}
